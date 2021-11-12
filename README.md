@@ -4,7 +4,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-# 🔗 Connect with me!
+## 🔗 Connect with me!
 <p align="center">
     
 [<img align="left" alt="Soham Saoji | Blog" src="https://img.shields.io/badge/Website-02ccf7?style=for-the-badge&logo=https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg&logoColor=white" />](https://www.teknowledge.info/)
