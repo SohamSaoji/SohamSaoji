@@ -1,5 +1,6 @@
 # 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Make beautiful pencil sketches using OpenCV python](https://www.teknowledge.info/2021/10/make-beautiful-pencil-sketches-using-python.html)
 - [Exploring Web3](https://www.teknowledge.info/2022/02/exploring-web-3.html)
 
 <!-- BLOG-POST-LIST:END -->
