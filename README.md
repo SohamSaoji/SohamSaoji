@@ -5,7 +5,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 # 🔥 Projects
-- [Web3pedia](https://web3pedia.info)
+- [Web3pedia](https://web3pedia.vercel.app)
 
 
 ## 🔗 Connect with me!
