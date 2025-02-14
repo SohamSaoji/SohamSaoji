@@ -1,12 +1,8 @@
 # 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [WTF is Generative AI?](https://sohamsaoji.vercel.app/blog/generative-ai)
+- [Exploring Web3](https://sohamsaoji.github.io/blog/exploring-web3)
 
 <!-- BLOG-POST-LIST:END -->
-
-# 🔥 Projects
-- [Web3pedia](https://web3pedia.vercel.app)
-
 
 ## 🔗 Connect with me!
 
